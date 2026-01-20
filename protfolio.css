@@ -99,6 +99,7 @@ nav .menu a {
 #banner .banner-img img{
  max-width: 585px;
  vertical-align: middle;
+ mix-blend-mode: multiply;
  
  
 }
